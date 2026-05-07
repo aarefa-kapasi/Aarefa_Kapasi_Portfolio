@@ -149,7 +149,7 @@ const Contact = () => {
               type="submit"
               className="w-full bg-red-600 hover:bg-red-700 transition duration-300 py-4 rounded-xl font-semibold text-lg"
             >
-              Send Message
+              Coming Soon
             </button>
           </motion.form>
         </div>
